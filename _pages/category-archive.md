@@ -1,5 +1,5 @@
 ---
-title: "Posts by Category"
+title: "Pre-Quantum Cryptography"
 layout: categories
 permalink: /categories/
 author_profile: true
@@ -16,6 +16,5 @@ author_profile: true
 
 **Quantum Principles:** Superposition (a qubit can be in multiple states), entanglement (linked particles affect each other at a distance), and the no-cloning theorem (you can’t copy a quantum state) form the core of quantum cryptography’s security.
 
-**Image:**  
 ![BB84 Protocol](/assets/images/BB84.png)
 
