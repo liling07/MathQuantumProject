@@ -1,8 +1,7 @@
 ---
 title: "Pre-Quantum Cryptography"
-layout: categories
 permalink: /categories/
-author_profile: true
+author_profile: false
 ---
 ## ⚛️ Quantum Cryptography Timeline + Concepts
 
