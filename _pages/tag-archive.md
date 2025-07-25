@@ -1,5 +1,5 @@
 ---
-title: "Posts by Tag"
+title: "Intersection"
 permalink: /tags/
 layout: tags
 author_profile: true

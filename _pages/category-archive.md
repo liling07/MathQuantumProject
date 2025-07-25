@@ -1,5 +1,5 @@
 ---
-title: "Pre-Quantum Cryptography"
+title: "Post-Quantum Cryptography"
 permalink: /categories/
 author_profile: false
 ---
