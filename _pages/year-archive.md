@@ -1,7 +1,7 @@
 ---
 title: "Posts by Year"
 permalink: /posts/
-layout: page
+layout: categories
 author_profile: false
 ---
 
